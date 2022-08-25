@@ -1,2 +1,1 @@
-My first readme
-My name is Bonani Mlondo
+My First README.md
